@@ -69,15 +69,17 @@ used.
 
 #### Area report:
 
-![Screenshot (279)](https://github.com/user-attachments/assets/dfc43535-5b1c-4dc8-9c9e-27c56841f8f0)
+![Screenshot (334)](https://github.com/user-attachments/assets/d4a77c79-7bb5-49d0-835d-8206ed563d32)
+
 
 #### Power Report:
 
-![Screenshot (280)](https://github.com/user-attachments/assets/6071e2b5-9cf1-4268-9cee-5248aaf18de5)
+![Screenshot (335)](https://github.com/user-attachments/assets/471aab16-46a0-45c7-988c-0ef2c554f14a)
+
 
 #### Timing Report: 
 
-               
+![Screenshot (336)](https://github.com/user-attachments/assets/6c7ccb5d-0c13-4c37-a684-72769b4781b7)              
          
 #### Result: 
 
