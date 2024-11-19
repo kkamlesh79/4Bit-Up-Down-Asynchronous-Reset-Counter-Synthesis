@@ -65,7 +65,7 @@ used.
 
 #### Synthesis RTL Schematic :
 
-![exp4 RTL](https://github.com/user-attachments/assets/ec1fef2f-2695-457d-ab51-3e39bce6da17)
+![WhatsApp Image 2024-11-19 at 21 39 56_6ddc9901](https://github.com/user-attachments/assets/4c221ff2-d4ec-41f4-8ff9-7d4fd2c0765f)
 
 #### Area report:
 
